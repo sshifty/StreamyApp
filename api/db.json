@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "editedwithoutpermissionID2",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "second stream",
+      "description": "second attempt",
+      "id": 3
+    },
+    {
+      "title": "hehe",
+      "description": "hihihke",
+      "id": 4
+    },
+    {
+      "title": "hehe",
+      "description": "hihihke",
+      "id": 5
+    },
+    {
+      "title": "seven stream",
+      "description": "stream",
+      "id": 6
+    },
+    {
+      "title": "edited2",
+      "description": "edited 2",
+      "id": 7
+    },
+    {
+      "title": "Cabal Online haha",
+      "description": "Dungeons",
+      "userId": "117135394458389426865",
+      "id": 8
+    }
+  ]
+}

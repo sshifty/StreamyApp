@@ -1,0 +1,52 @@
+{
+  "streams": [
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "second stream",
+      "description": "second attempt",
+      "id": 3
+    },
+    {
+      "title": "hehe",
+      "description": "hihihke",
+      "id": 4
+    },
+    {
+      "title": "hehe",
+      "description": "hihihke",
+      "id": 5
+    },
+    {
+      "title": "seven stream",
+      "description": "stream",
+      "id": 6
+    },
+    {
+      "title": "nyolcadik",
+      "description": "hehe",
+      "userId": "117135394458389426865",
+      "id": 7
+    },
+    {
+      "title": "Unexpected behavior",
+      "description": "didnt expect that",
+      "userId": "117135394458389426865",
+      "id": 8
+    },
+    {
+      "title": "Programmatic nav",
+      "description": "u should not see this on the form page!!!",
+      "userId": "117135394458389426865",
+      "id": 9
+    }
+  ]
+}
